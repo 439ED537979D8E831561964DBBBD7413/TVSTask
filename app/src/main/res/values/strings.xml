@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TvsTask</string>
+    <string name="password">Password</string>
+    <string name="user_name">User name</string>
+    <string name="login">Login</string>
+    <string name="_123456">123456</string>
+    <string name="test">test</string>
+    <string name="salary">Salary</string>
+    <string name="date_of_join">Date of Join</string>
+    <string name="code">Code</string>
+    <string name="city">City</string>
+    <string name="designation">Designation</string>
+    <string name="name">Name</string>
+    <string name="chart">Chart</string>
+    <string name="map">Map</string>
+    <string name="title_activity_maps">Map Screen</string>
+    <string name="google_maps_key">AIzaSyCT6_BBv-UMmFek17So5P4MnlCjGefmpKY</string>
+</resources>
